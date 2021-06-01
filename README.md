@@ -1,3 +1,9 @@
-# Codecademy Project
+# Randomized Message 
+The main goal of this little project is to print random messages to a user. Due to a small input, the output is sometimes repeated itself.
 
-Main goal of this project is to print random messages to a user.
+----
+ ## Technology
+Bulit using vanilla **java script**
+
+----
+
